@@ -1,0 +1,5 @@
+private int getname()
+{
+    string strName = "you";
+    return strName;
+}
